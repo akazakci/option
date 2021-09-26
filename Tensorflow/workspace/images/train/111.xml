@@ -1,0 +1,26 @@
+<annotation>
+	<folder>norust</folder>
+	<filename>11.jpeg</filename>
+	<path>/Users/oak/Documents/GitHub/option/Tensorflow/workspace/images/collectedimages/norust/11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>515</width>
+		<height>515</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>norust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>29</ymin>
+			<xmax>482</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
