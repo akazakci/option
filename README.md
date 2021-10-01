@@ -8,6 +8,8 @@
 - Evolution of deep learning applications towards the edge and mobile platforms
 - Building an edge vision project
 - Getting started with TensorFlow object detection API
+  - Amazon AWS 
+  - Google Colab
 - Object detection architectures
 - Getting started with Jetson Nano
 - Inference on still images 
