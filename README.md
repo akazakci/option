@@ -1,5 +1,5 @@
-# Course Material for Edge computing and Computer vision with Jetson Nano
-## MINES ParisTech - Option Ingénierie Digitale Des Systèmes Complexes 
+# Edge computing and Computer vision with Jetson Nano
+## Course Material for MINES ParisTech - Option Ingénierie Digitale Des Systèmes Complexes 
 
 # Course flow
 
