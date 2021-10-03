@@ -5,11 +5,8 @@
 
 - Introduction
 - State of digital transformation in Engineering companies
-- Evolution of deep learning applications towards the edge and mobile platforms
-- Building an edge vision project
+- Computer vision on the edge: from object detection towards video action recognition
 - Getting started with TensorFlow object detection API
-  - Amazon AWS 
-  - Google Colab
 - Object detection architectures
 - Getting started with Jetson Nano
 - Inference on still images 
