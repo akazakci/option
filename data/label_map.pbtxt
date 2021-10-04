@@ -1,0 +1,8 @@
+item {
+	name: 'rust'
+	id: 1
+}
+item {
+	name: 'norust'
+	id:2
+}

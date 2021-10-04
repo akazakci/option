@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rust</folder>
+	<filename>15.jpeg</filename>
+	<path>/Users/oak/Documents/GitHub/option/Tensorflow/workspace/images/collectedimages/rust/15.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rust</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>400</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
